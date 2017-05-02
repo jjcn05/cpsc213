@@ -1,11 +1,3 @@
-//
-// This is the solution to CPSC 213 Assignment 1.
-//
-// Do not distribute this file or any portion of it to anyone.
-//
-// Do not remove this comment.
-//
-
 import static java.lang.System.out;
 
 public class Endianness {
