@@ -1,16 +1,4 @@
-//
-// This is the solution to CPSC 213 Assignment 1.
-//
-// You may use this file in your solution to Assigments 2 and later.
-//
-// You may also incorporate any portion of this file into your own version
-// provided that you braket the code with comments that indicate that the
-// code was provided as part of the solution to Assignment 1.
-//
-// Do not distribute this file or any portion of it to anyone.
-//
-// Do not remove this comment.
-//
+
 
 package arch.sm213.machine.student;
 
