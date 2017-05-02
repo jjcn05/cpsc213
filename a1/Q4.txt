@@ -1,0 +1,4 @@
+The problem is that the DF-224 is a big endian machine and the Intel is little endian and just the bytes got reversed.  The correct way to represent these numbers is to reverse their byte order and so we have:
+
+RA = 0x65f60700 = 1,710,622,464
+D  = 0x8151deff = -2,125,340,929 (2,169,626,367 unsigned)

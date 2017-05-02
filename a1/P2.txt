@@ -1,0 +1,10 @@
+Testing aligned access:
+ - with both aligned and unaligned addresses of various power-of-two sizes and addresses
+
+Testing get and set:
+ - set multiple adjacent 4-byte values and then read those memory locations with get, compare the values
+
+Test Endianness
+ - test both directions
+ - use integers/arrays with a different value in every byte
+ - test with negative bytes values (i.e., a byte value v where v & 0x80 == 0x80)
