@@ -1,7 +1,3 @@
-//
-// A portion of this example solution was generously provided by Raunak Kumar and Vaastav Anand.
-// Do not provide this file in any form to anyone and do not remove this comment.
-//
 
 package arch.sm213.machine.student;
 
